@@ -10,7 +10,7 @@ This repository contains a data science project aimed at predicting the number o
 
 ## Notebooks Overview
 
-### `data_preparation.ipynb`
+### `data-preparation.ipynb`
 This notebook focuses on preparing and exploring the dataset. Key steps include:
 - Loading and cleaning traffic and weather data.
 - Visualizing various aspects such as monthly traffic patterns and correlations between traffic and weather conditions.
@@ -28,7 +28,7 @@ The data used is from: [Statens vegvesen](https://trafikkdata.atlas.vegvesen.no/
 ## Usage
 To work with the project:
 1. Clone the repository.
-2. Explore and run the Jupyter notebooks in order, starting with `data_preparation.ipynb`.
+2. Explore and run the Jupyter notebooks in order, starting with `data-preparation.ipynb`.
 3. Review the generated files for further insights and predictions.
 
 ## Requirements
